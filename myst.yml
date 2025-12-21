@@ -1,0 +1,47 @@
+## See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id:
+  banner: ads_logo.png
+  title: "Guides to Good Practice: Digital Archiving and the Project Lifecycle"
+  subtitle: Archaeology Data Service, 2011
+  description:  
+  keywords:
+    - jupyter-book
+    - archaeology
+  authors:
+    - name: Kieron Niven
+      orcid: https://orcid.org/0000-0002-0537-9238
+      affiliations: Archaeology Data Service
+    - name: Francis Pierce-McManamon
+      orcid: https://orcid.org/0000-0002-7238-0845
+      affiliations: Centre for Digital Antiquity
+  license: CC-BY-4.0
+  open_access: true
+  doi: https://doi.org/10.5284/h0p2-5584
+  github: uoy-ads/ads-guides-digitalarchiving
+  toc:
+    - file: index.md
+    - file: content/1-about.md
+    - file: content/2-howto.md  
+    - file: content/3-digitalarchiving.md
+    - file: content/4-archivalstrat.md
+    - file: content/5-planning.md  
+    - file: content/6-projectdocu.md
+    - file: content/7-projectmetadata.md
+    - file: content/8-dataselection.md  
+    - file: content/9-projectarchive.md
+    - file: content/10-copyright.md
+    - file: content/11-oais.md
+  exports:
+    - format: pdf
+      article: 
+      output:
+site:
+  template: book-theme
+  options:
+    favicon: images/g2gp_signpost.png
+    logo: images/g2gp_signpost.png
+    logo_text: Guides to Good Practice
+  parts:
+    footer: footer.md
