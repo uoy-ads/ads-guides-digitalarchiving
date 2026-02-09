@@ -1,8 +1,9 @@
 ![ADS_logo](ads_logo.png)
+![ADS_logo](hsds_blue_black.png)
 
 # Introduction
 
-Welcome to the repository for the Guides to Good Practice sections on *Digital Archiving* and *The Porject Lifecycle*. The guides and this repository are maintained by staff at the [Archaeology Data Service](https://archaeologydataservice.ac.uk/).
+Welcome to the repository for the Guides to Good Practice sections on *Digital Archiving* and *The Project Lifecycle*. The guides and this repository are maintained by staff at the [Archaeology Data Service](https://archaeologydataservice.ac.uk/) and [Heritage Science Data Service](https://hsds.ac.uk/).
 
 The published version of this material is available at: https://doi.org/10.5284/h0p2-5584
 
